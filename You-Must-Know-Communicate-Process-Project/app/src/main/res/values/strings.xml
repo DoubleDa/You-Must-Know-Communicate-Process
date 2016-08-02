@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">You-Must-Know-Communicate-Process-Project</string>
+    <string name="tv_page_title">请输入要查询人名的序号：</string>
+    <string name="btn_search">查询</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>A神</item>
+        <item>B神</item>
+        <item>C神</item>
+        <item>D神</item>
+        <item>E神</item>
+        <item>F神</item>
+        <item>G神</item>
+    </string-array>
+</resources>
